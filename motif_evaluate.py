@@ -162,3 +162,5 @@ def main():
  
 if __name__ == "__main__":
     main()
+
+# python motif_evaluate.py --true test_true_params.json --estimated estimated_params_test.json --estimate-alpha yes
